@@ -4,7 +4,7 @@
 
 ![task8](https://github.com/MarozIryna/cSharpPortfolioIrynaMaroz/assets/149661028/eed85ede-a739-4ada-873d-7038c9801356)
 3. project03CurrentYearIsLeap checks if current year is leap and displays this information.
-4. project04DartsGame calculates the earned points in a single toss of a Darts game. 
+ 4. project04DartsGame calculates the earned points in a single toss of a Darts game. 
         In the game, the target rewards with 4 different amounts of points, depending on where the dart lands:
  -if the dart lands outside the target, player earns no points (0 points);
 
