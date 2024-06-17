@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project02IfElse", "..\proje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project03CurrentYearIsLeap", "..\project03\project03CurrentYearIsLeap.csproj", "{EA9BA6DF-5C1F-4905-A78E-15616187B62E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project04DartsGame", "..\project04DartsGame\project04DartsGame.csproj", "{A076FB2E-CA01-46A1-AC04-26D2968E1661}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EA9BA6DF-5C1F-4905-A78E-15616187B62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA9BA6DF-5C1F-4905-A78E-15616187B62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA9BA6DF-5C1F-4905-A78E-15616187B62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A076FB2E-CA01-46A1-AC04-26D2968E1661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A076FB2E-CA01-46A1-AC04-26D2968E1661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A076FB2E-CA01-46A1-AC04-26D2968E1661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A076FB2E-CA01-46A1-AC04-26D2968E1661}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
