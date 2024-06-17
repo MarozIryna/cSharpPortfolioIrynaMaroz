@@ -6,8 +6,7 @@ Hello. In this project you can find C# portfolio.
 
 ![task8](https://github.com/MarozIryna/cSharpPortfolioIrynaMaroz/assets/149661028/eed85ede-a739-4ada-873d-7038c9801356)
     3. project03CurrentYearIsLeap checks if current year is leap and displays this information.
-
-        4. project04DartsGame implements a GetScore method that calculates the earned points in a single toss of a Darts game. In the game, the target rewards with 4 different amounts of points, depending on where the dart lands:
+    4. project04DartsGame implements a GetScore method that calculates the earned points in a single toss of a Darts game. In the game, the target rewards with 4 different amounts of points, depending on where the dart lands:
     if the dart lands outside the target, player earns no points (0 points);
     if the dart lands in the outer circle of the target, player earns 1 point;
     if the dart lands in the middle circle of the target, player earns 5 points;
