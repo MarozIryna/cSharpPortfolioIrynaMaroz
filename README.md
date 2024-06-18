@@ -12,6 +12,7 @@
 The outer circle has a radius of 10 units (This is equivalent to the total radius for the entire target), the middle circle a radius of 5 units, and the inner circle a radius of 1. Of course, they are all centered to the same point (That is, the circles are concentric) defined by the coordinates (0, 0).
  - project05ShortHandIfElse (Ternary Operator) sets current time, shows "Good day" or "Good evening". It's depend on current hour.
  - project06Delegates shows delegates example with text output to console.
+ - project07Lambda counts square of 5 via lambda.
     
         
 
