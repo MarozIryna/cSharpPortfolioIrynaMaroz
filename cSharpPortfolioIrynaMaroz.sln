@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project01IndexList", "..\project01\project01IndexList.csproj", "{E1823080-8B38-41CE-A7FA-5DE743FC3BBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project01IndexList", "..\project01\project01IndexList.csproj", "{E1823080-8B38-41CE-A7FA-5DE743FC3BBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project02IfElse", "..\project03IfElse\project02IfElse.csproj", "{FF4031E3-2250-479B-901D-F4F676A033B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project02IfElse", "..\project03IfElse\project02IfElse.csproj", "{FF4031E3-2250-479B-901D-F4F676A033B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project03CurrentYearIsLeap", "..\project03\project03CurrentYearIsLeap.csproj", "{EA9BA6DF-5C1F-4905-A78E-15616187B62E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project03CurrentYearIsLeap", "..\project03\project03CurrentYearIsLeap.csproj", "{EA9BA6DF-5C1F-4905-A78E-15616187B62E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project04DartsGame", "..\project04DartsGame\project04DartsGame.csproj", "{A076FB2E-CA01-46A1-AC04-26D2968E1661}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project04DartsGame", "..\project04DartsGame\project04DartsGame.csproj", "{A076FB2E-CA01-46A1-AC04-26D2968E1661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project05ShortHandIfElse", "project04ShortHandIfElse\project05ShortHandIfElse.csproj", "{F511BE3D-A240-4B46-95FD-D3A9ED79587C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A076FB2E-CA01-46A1-AC04-26D2968E1661}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A076FB2E-CA01-46A1-AC04-26D2968E1661}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A076FB2E-CA01-46A1-AC04-26D2968E1661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F511BE3D-A240-4B46-95FD-D3A9ED79587C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F511BE3D-A240-4B46-95FD-D3A9ED79587C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F511BE3D-A240-4B46-95FD-D3A9ED79587C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F511BE3D-A240-4B46-95FD-D3A9ED79587C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
