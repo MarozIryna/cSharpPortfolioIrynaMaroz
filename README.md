@@ -13,6 +13,17 @@ The outer circle has a radius of 10 units (This is equivalent to the total radiu
  - project05ShortHandIfElse (Ternary Operator) sets current time, shows "Good day" or "Good evening". It's depend on current hour.
  - project06Delegates shows delegates example with text output to console.
  - project07Lambda counts square of 5 via lambda.
-    
+
+
+# HTML short project
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Greetings</title>
+    </head>
+    <body>
+        <p>Hello. Have a nice day!</p>
+    </body>
+</html>
         
 
