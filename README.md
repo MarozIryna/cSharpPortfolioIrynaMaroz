@@ -23,7 +23,5 @@ The outer circle has a radius of 10 units (This is equivalent to the total radiu
     </head>
     <body>
         <p>Hello. Have a nice day!</p>
-    </body>
-</html>
         
 
