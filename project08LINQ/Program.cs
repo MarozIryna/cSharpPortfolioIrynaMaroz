@@ -9,3 +9,11 @@ foreach (var x in lowNums)
 {
     Console.WriteLine(x);
 }
+
+var firstNumbersLessThan6 = numbers.TakeWhile(n => n < 6);
+
+Console.WriteLine("First numbers less than 6:");
+foreach (var num in firstNumbersLessThan6)
+{
+    Console.WriteLine(num);
+}
