@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project05ShortHandIfElse", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project06Delegates", "project06Delegates\project06Delegates.csproj", "{6ED74FD6-AEC1-49F0-84CA-C24A85216618}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project07Lambda", "project07Lambda\project07Lambda.csproj", "{4CC0F254-C18C-45D8-881A-D01E30C624C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project07Lambda", "project07Lambda\project07Lambda.csproj", "{4CC0F254-C18C-45D8-881A-D01E30C624C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project08LINQ", "project08LINQ\project08LINQ.csproj", "{0A72DD96-6B39-480A-93A2-18A4FF04FD69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4CC0F254-C18C-45D8-881A-D01E30C624C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC0F254-C18C-45D8-881A-D01E30C624C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC0F254-C18C-45D8-881A-D01E30C624C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A72DD96-6B39-480A-93A2-18A4FF04FD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A72DD96-6B39-480A-93A2-18A4FF04FD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A72DD96-6B39-480A-93A2-18A4FF04FD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A72DD96-6B39-480A-93A2-18A4FF04FD69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
